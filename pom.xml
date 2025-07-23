@@ -106,8 +106,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://172.31.42.154:9980/mithuntechnologies/repository/canarabank-release/</url>
 	    </snapshotRepository>
-	    
-	</distributionManagement>
+	    </distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
